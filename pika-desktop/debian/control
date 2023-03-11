@@ -52,6 +52,7 @@ Depends: ${misc:Depends},
     gnome-shell-extension-legacy-gtk3-theme-scheme-auto-switcher,
     gnome-shell-extension-supergfxctl-gex,
     nautilus-share,
+    gir1.2-gmenu-3.0,
 # Applications
     gnome-control-center,
     gnome-disk-utility,

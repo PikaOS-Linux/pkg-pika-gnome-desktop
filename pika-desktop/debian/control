@@ -31,6 +31,8 @@ Depends: ${misc:Depends},
     adw-gtk3-theme,
     papirus-icon-theme,
     sound-theme-freedesktop,
+    pika-theme,
+    pika-gdm-theme,
 # Plugins
     chrome-gnome-shell,
     ghostscript-x,

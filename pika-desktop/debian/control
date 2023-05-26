@@ -25,7 +25,6 @@ Depends: ${misc:Depends},
     fonts-freefont-ttf,
     fonts-liberation,
 # Theming
-    gnome-themes-standard,
     gnome-themes-extra,
     adwaita-icon-theme-full,
     adw-gtk3-theme,

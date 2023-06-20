@@ -33,6 +33,7 @@ Depends: ${misc:Depends},
     pika-theme,
     pika-gdm-theme,
 # Plugins
+    xdg-desktop-portal-gnome,
     chrome-gnome-shell,
     ghostscript-x,
     gnome-bluetooth,

@@ -12,8 +12,8 @@ Depends: ${misc:Depends},
 # BaseOS
     pika-baseos,
 # Basic Session
-    pika-session,
-    pika-settings,
+    pika-gnome-session,
+    pika-gnome-settings,
     gdm3,
     gnome-shell,
 # Gnome VRR Session

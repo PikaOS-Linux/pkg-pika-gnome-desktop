@@ -85,7 +85,6 @@ Depends: ${misc:Depends},
     yelp,
     pavucontrol,
     firefox,
-    pika-welcome,
     pika-gnome-first-setup,
     pika-gnome-layouts
 ## Last to replace mime information

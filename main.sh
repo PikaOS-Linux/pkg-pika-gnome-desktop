@@ -1,5 +1,5 @@
 # Clone Upstream
-cd ./pika-desktop
+cd ./pika-gnome-desktop
 
 # Get build deps
 apt-get build-dep ./ -y

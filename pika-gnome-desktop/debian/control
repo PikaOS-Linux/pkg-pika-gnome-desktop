@@ -84,10 +84,13 @@ Depends: ${misc:Depends},
     simple-scan,
     yelp,
     pavucontrol,
+    firefox,
+    pika-welcome,
+    pika-gnome-first-setup,
+    pika-gnome-layouts
 ## Last to replace mime information
     file-roller,
 Description: PikaOS Minimal Gnome Desktop Metapackage
-Recommends: firefox
 
 Package: pika-gnome-desktop
 Architecture: linux-any

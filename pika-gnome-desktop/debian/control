@@ -86,7 +86,7 @@ Depends: ${misc:Depends},
     pavucontrol,
     firefox,
     pika-gnome-first-setup,
-    pika-gnome-layouts
+    pika-gnome-layouts,
 ## Last to replace mime information
     file-roller,
 Description: PikaOS Minimal Gnome Desktop Metapackage

@@ -54,7 +54,6 @@ Depends: ${misc:Depends},
     gnome-shell-extension-supergfxctl-gex,
     nautilus-share,
     gir1.2-gmenu-3.0,
-    pika-gnome-keyboarding,
 # Applications
     gnome-control-center,
     gnome-disk-utility,

@@ -13,7 +13,7 @@ Depends: ${misc:Depends},
     pika-baseos,
 # Basic Session
     pika-gnome-session,
-    pika-gnome-settings,
+    pika-gnome-settings | pika-settings,
     gdm3,
     gnome-shell,
 # Gnome VRR Session
@@ -83,12 +83,10 @@ Depends: ${misc:Depends},
     simple-scan,
     yelp,
     pavucontrol,
-    firefox,
-    pika-gnome-first-setup,
-    pika-gnome-layouts,
 ## Last to replace mime information
     file-roller,
 Description: PikaOS Minimal Gnome Desktop Metapackage
+Recommends: firefox, pika-gnome-settings
 
 Package: pika-gnome-desktop
 Architecture: linux-any
